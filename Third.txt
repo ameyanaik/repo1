@@ -1,1 +1,26 @@
 This is my Third file in GIT repository
+
+Version numbers in GIT are given to CHANGES to the repository
+
+Each file does NOT have a version number
+
+So, what is versioned is the CHANGES and not the FILES
+
+Which means that if I add 2 files together .. they will together form a version.
+
+1. First.txt 							   - v1
+2. Second.txt and Third.txt 			   - v2
+3. Fourth.txt, Fifth.txt and Sixth.txt     - v3
+4. Change to Text inside First.txt         - v4
+5. Delete Second.txt (This is also change) - v5
+
+
+What happens when you do a checkout: 
+
+1. git checkout 37e3b7f67b6ddb1b1387e06bac7fdccb56003c15
+
+This command will automatically create an anonymous branch (copy) of the repository and in this branch it will load the version that you are requesting. The original branch (master) still exists and you can easily go back to it. 
+
+This is useful, when you want to temporarily checkout a previous version and then restore it to the original version
+
+
