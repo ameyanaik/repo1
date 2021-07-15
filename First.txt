@@ -1,6 +1,9 @@
 This is Ameya!
 
 This is my First file in GIT repository
+
+Hi from Ameya! EMS-61
+
 Adding another line to be committed in the third version
 
 Hi Arunnath!
