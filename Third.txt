@@ -4,3 +4,16 @@ Unless I commit to a branch, GIT will not register it as a change.
 
 
 Want to access in master.
+
+
+To get the latest changes from the remote repository / which can also be called as the central repository or common server - In our case it is GITHUB, but it could be a local machine or some other service like GITHUB.
+
+1. Click on Fetch 'origin' 
+	(Origin here is the name of the repository on github. By default it is named as origin, but you can change it if you want)
+
+Fetch tells you whether there are any changes available by only fetching the history not the actual content
+
+2. Click on Pull origin
+
+Pull downloads the actual content and merges it with your local repository
+
