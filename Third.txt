@@ -1,3 +1,6 @@
 This is my Third file in GIT repository
 
 Unless I commit to a branch, GIT will not register it as a change. 
+
+
+Want to access in master.
