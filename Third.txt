@@ -17,3 +17,4 @@ Fetch tells you whether there are any changes available by only fetching the his
 
 Pull downloads the actual content and merges it with your local repository
 
+Change 1 - Ameya
